@@ -226,4 +226,4 @@ Switch providers by changing `ai_provider` in `config.yaml`. No code changes req
 
 ## Contributing
 
-Built by [@yourusername](https://linkedin.com/in/yourprofile) as part of the **Sentinel Series** — documenting the evolution from manual QA scripting to fully autonomous AI-driven testing pipelines.
+Built by [Anant Jain](https://www.linkedin.com/in/anant-jain-40760719/)) as part of the **Sentinel Series** — documenting the evolution from manual QA scripting to fully autonomous AI-driven testing pipelines.
