@@ -1,0 +1,8 @@
+project: "OrangeHRM-Pilot"
+ai_provider: "groq"  # Change to 'openai' or 'groq' or 'ollama' or "sambanova"as needed
+base_url: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+
+# Models for Comparison:
+# SambaNova: Meta-Llama-3.3-70B-Instruct
+# Groq: llama-3.3-70b-versatile
+model: "llama-3.3-70b-versatile"  # Change to the specific model you want to use for SambaNova
