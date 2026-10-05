@@ -1,5 +1,7 @@
 # 🛡️ Sentinel QA — Cognitive Autonomous Testing Ecosystem
 
+> **Learning project.** An earlier snapshot of a personal experiment, not maintained. The latest version is [sentinal_qa_phase3](https://github.com/anant-pw/sentinal_qa_phase3).
+
 > From Scripted Testing to Autonomous Testing Agents: How Playwright + LLMs Turn Manual Scripts into Self-Driving QA
 
 Sentinel is a self-healing, AI-augmented quality ecosystem built entirely on open-source technology. It transforms unstructured requirements into executed, reported, and triaged test cases — with a human approval gate at every critical decision point.
